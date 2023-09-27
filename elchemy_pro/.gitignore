@@ -1,0 +1,3 @@
+# DB and Virtualenv file
+db.sqlite3
+env
